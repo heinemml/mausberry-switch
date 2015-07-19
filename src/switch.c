@@ -289,7 +289,7 @@ int main(int argc, char *argv[])
 
     // Shutdown
     syslog(LOG_NOTICE, "Shutting down.");
-    system("shutdown -h now");
+    system("poweroff");
 
     return 0;
 }

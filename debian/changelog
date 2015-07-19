@@ -1,3 +1,9 @@
+mausberry-switch (0.6-1) UNRELEASED; urgency=low
+
+  * Added tests and documentation.
+
+ -- Tom Richards <tom@tomrichards.net>  Sun, 19 Jul 2015 18:29:36 +0000
+
 mausberry-switch (0.5) unstable; urgency=low
 
   * Added configurable delay for shutdown.
